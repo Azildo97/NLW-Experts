@@ -50,20 +50,20 @@ header h1 {
 
 .quiz-item h3 {
   padding: 16px 20px;
-  color: #353535;
+  color: #121212;
 
   display: flex;
   align-items: center;
   gap: 12px;
 
-  background-color: #15551a;
+  background-color: #6eb975;
 }
 
 .quiz-item h3:before {
   counter-increment: quiz-item;
   content: counter(quiz-item);
 
-  background-color: #5ac555;
+  background-color: #95ddaa;
   width: 28px;
   height: 28px;
   font-size: 18px;

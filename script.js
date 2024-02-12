@@ -1,47 +1,47 @@
 const perguntas = [
     //Objeto contendo a pergunta, respostas, e a opção correta
     {
-        pergunta: "Quanto é 1 mais 2?",
+        pergunta: "Qual é a capital da Argentina?",
         respostas: [
-            "4",
-            "5",
-            "3",
-        ],
-        correta: 2
-    },
-    {
-        pergunta: "Quanto é 5 menos 4?",
-        respostas: [
-            "4",
-            "1",
-            "9",
-        ],
-        correta: 1
-    },
-    {
-        pergunta: "Quanto é 7 vezes 1?",
-        respostas: [
-            "14",
-            "7",
-            "21",
-        ],
-        correta: 1
-    },
-    {
-        pergunta: "Quanto é 63 dividido por 9?",
-        respostas: [
-            "7",
-            "9",
-            "8",
+            "Buenos Aires",
+            "Rosário",
+            "Mendoza",
         ],
         correta: 0
     },
     {
-        pergunta: "Quanto é 10 multiplicado por 0?",
+        pergunta: "Qual é a maior cidade do Brasil?",
         respostas: [
-            "10",
-            "100",
-            "0",
+            "Rio de Janeiro",
+            "Belo Horizonte",
+            "São Paulo",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Qual a capital do Rio de Janeiro?",
+        respostas: [
+            "Niterói",
+            "Rio de Janeiro",
+            "Angra dos Reis",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Em qual região (Norte, Nordeste, Centro-Oeste, Sudeste ou Sul) fica o estado do Maranhão?",
+        respostas: [
+            "Norte",
+            "Nordeste",
+            "Centro-Oeste",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual país possui a maior fronteira com o Brasil?",
+        respostas: [
+            "Paraguai",
+            "Peru",
+            "Bolivia",
         ],
         correta: 2
     },
